@@ -11444,7 +11444,7 @@ body.modal-open[style*='visible'] {
 		transform: scale3d(1.05, 1.05, 1.05);
 	}
 	.desktop .thumbnail-modern-image-wrap:hover::before {
-		opacity: 1;
+		/* opacity: 1; */
 		transform: translate3d(-50%, -50%, 0) scale3d(1, 1, 1);
 	}
 	.desktop .thumbnail-modern-image-wrap:hover::after {
